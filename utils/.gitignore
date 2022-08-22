@@ -1,0 +1,3 @@
+class_require_augment.json
+dataset_test.npz
+dataset_train.npz
