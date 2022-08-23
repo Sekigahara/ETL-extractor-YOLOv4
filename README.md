@@ -5,3 +5,9 @@ This repositories allows to extract Japanese characters especially Hiragana and 
 In addition, this repo also be able to do various preprocess and augmentation then converted into YOLOv4 training format.
 
 ## Requirement
+- This repo runs with Python 3.8
+- Download the ETL-1, ETL-8 and ETL-9 [here](http://etlcdb.db.aist.go.jp/)
+- Install the requirement file :
+```sh
+pip install -r requirements.txt
+```
