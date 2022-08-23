@@ -30,7 +30,7 @@ This script has two different, the first one is only for hiragana and the second
 The augmentation only done in trainset, the augmentation techniques are separated into two groups and could produce 11 different augmentation combination. Feel free to add more augmentation technique to increase the combination and generate more data.</br>
 
 - <b> Train format. </b> </br>
-This script focus is to generate YOLO darknet format based on AlexeyAB[here](https://github.com/AlexeyAB/darknet) especially for YOLOv4 and possibly new YOLOv7.</br>
+This script focus is to generate YOLO darknet format based on AlexeyAB [here](https://github.com/AlexeyAB/darknet) especially for YOLOv4 and possibly new YOLOv7.</br>
 This script will generate train.txt and test.txt that consist list of images for each set. </br>
 In obj folder will also generated the images and for each image will generated .txt files for bounding box coordinates.</br></br>
 Note : The calculation of bounding box is simply taking the whole images as the coordinates.
