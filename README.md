@@ -36,4 +36,4 @@ In obj folder will also generated the images and for each image will generated .
 Note : The calculation of bounding box is simply taking the whole images as the coordinates.
 
 ## Final Note
-The generated data after augmentation and train format will be around 300k in total, for those who using harddisk please becareful due to the huge file indexing may reduce the lifetime of harddisk. The augmentation process may also consume a huge ram, resource management be advised. </br>
+The generated data after augmentation and train format will be around 300k in total, for those who using harddisk please becareful due to the huge file indexing may reduce the lifetime of harddisk. The augmentation process may also consume a huge RAM and CPU resources, resource management be advised. </br>
