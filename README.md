@@ -4,6 +4,10 @@ ETLCDB is one of the handwritten Japanese character database. ETLCDB split the d
 This repositories allows to extract Japanese characters especially Hiragana and katakana from ETL-1, ETL-8 and ETL-9 with Python.
 In addition, this repo also be able to do various preprocess and augmentation then converted into YOLOv4 training format.
 
+## Main Repositories
+- High level and low level overview of the project can be found in the main repositories.
+- Main respositories can be found [here](https://github.com/Sekigahara/Multilabel-classification-Japanese-character-with-YOLOv4).
+
 ## Requirement
 - This repo runs with Python 3.8
 - Download the ETL-1, ETL-8 and ETL-9 [here](http://etlcdb.db.aist.go.jp/)
